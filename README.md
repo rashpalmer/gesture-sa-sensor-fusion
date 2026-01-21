@@ -606,4 +606,4 @@ This project is provided for educational purposes.
 
 ## Author
 
-Generated for sensor fusion and situational awareness demonstration.
+Rashaan Palmer
